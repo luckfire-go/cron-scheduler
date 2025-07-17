@@ -1,4 +1,4 @@
-package cron_schduler
+package cron_scheduler
 
 import (
 	"reflect"

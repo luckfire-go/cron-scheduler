@@ -1,4 +1,4 @@
-module github.com/luckfire-go/cron-registry
+module github.com/luckfire-go/cron-scheduler
 
 go 1.23.3
 
